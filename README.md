@@ -5,23 +5,32 @@ This is licensed under MIT so please feel free to fork and use as you'd like.
 
 If you like it, please consider leaving a github star.  I think that it would be super cool to see how many people this helps.
 
-## the autoresponse
+## Responses
+
+### For third-party recruiters
 
 ```
-Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a data scientist I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn. It is a wonderful position of privilege to be in and I'm thankful for it.
+Hi <name>, 
 
-It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+Thanks so much for reaching out. I'm always interested in hearing about new and exciting opportunities.
 
-I would love to continue the conversation, but before I do, I'd like to level set around the level of seniority that you're looking for. 
-
-Can you send along the company name, a job description and, total compensation details for the role you're reaching out in reference to? 
-
-While I very much appreciate the fact that exceptionally talented and engaged recruiters reach out consistently, sorting serious and high quality opportunities from spam would be a full time job without an autoresponder.
-
-In the absence of detailed information regarding the nature of the opportunity in question, I will be unavailable for further discussion.
-Thanks again for reaching out!
+As an ML practitioner I'm sure you understand I get a high volume of such messages. I'd love to continue this conversation - could you send along the company name, job description, and compensation range for this role?
  
-I look forward to hearing from you.
+I look forward to hearing from you, and thanks again for reaching out.
+
+Alex
+```
+
+## for in-house recruiters
+
+```
+Hi <name>, 
+
+Thanks so much for reaching out. I'm always interested in hearing about new and exciting opportunities.
+
+As an ML practitioner I'm sure you understand I get a high volume of such messages. I'd love to continue this conversation - could you send along the compensation range for this role? If you'd prefer I'd be happy to talk about this over a 10-minute call.
+ 
+I look forward to hearing from you, and thanks again for reaching out.
 
 Alex
 ```
